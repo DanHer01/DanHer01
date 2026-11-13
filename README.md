@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Daniel%20Herrarte&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Self-taught%20developer%20%C2%B7%20Python%20%26%20JavaScript%20%C2%B7%20AI-assisted&descAlignY=58&descSize=17" alt="Daniel Herrarte" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Daniel%20Herrarte&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Self-taught%20developer%20%7C%20Python%20%2B%20JavaScript%20&descAlignY=58&descSize=17" alt="Daniel Herrarte" />
 </div>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Self-taught+developer;Python+%C2%B7+JavaScript+%C2%B7+TypeScript;Building+with+local+LLMs+and+Ollama;Linux+%C2%B7+Git+%C2%B7+REST+APIs;Open+to+junior+dev+and+DevOps+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Self-taught+developer;Python+%7C+JavaScript+%7C+TypeScript;Building+with+local+LLMs+and+Ollama;Linux+%7C+Git+%7C+REST+APIs;Open+to+junior+dev+and+DevOps+roles" alt="Typing SVG" />
   </a>
 </div>
 
