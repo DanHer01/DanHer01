@@ -40,38 +40,29 @@ class Developer:
 
 I build small, working things and try to understand how they work underneath — from an Ollama desktop client to reimplementing the server side of discontinued online games. Most of what I know came from reading source, breaking things, and asking better questions.
 
-- 🔭 Currently building **ProyectoAI**, a local LLM desktop client on top of Ollama
 - 🌱 Learning **Docker** and **CI/CD** to move from scripting into infrastructure
 - 🧠 Interested in **AI-assisted development**, reverse engineering, and developer tooling
 - 💬 Ask me about **Ollama, PyQt5, Linux, Git, or game protocol work**
-- 📫 Reach me at **herrartech.daniel@gmail.com**
 
 ---
 
-<h2 align="center">🧰 Tech Stack</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,nodejs,git,linux,github,vscode,html,css&theme=dark" alt="Tech stack" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
+<p>Welcome to my page! </br> I'm Daniel, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/16022/16022177.png" width="13"/> <b>Guatemala City</b></p>
+<h2>Things I code with</h2>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
 ---
 
@@ -111,15 +102,14 @@ I build small, working things and try to understand how they work underneath —
 <div align="center">
   <a href="https://github.com/DanHer01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/daniel-herrarte"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:herrartech.daniel@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/DanHer01?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <i>“First, solve the problem. Then, write the code.”</i><br />
-  <sub>— John Johnson</sub>
+  <i>“We can only see a short distance ahead, but we can see plenty there that needs to be done.”</i><br />
+  <sub>— Alan Turing</sub>
 </div>
 
 <br />
